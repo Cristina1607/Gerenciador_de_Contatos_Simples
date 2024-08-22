@@ -1,0 +1,24 @@
+
+### .gitignore
+
+```plaintext
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+ Gerenciador de Contatos Simples em Python
+
+Descrição: Este projeto consiste na implementação de um gerenciador de contatos básico em Python. O programa permite que você adicione novos contatos com nome, telefone e e-mail, visualize todos os contatos armazenados e remova contatos específicos pelo nome. É uma ferramenta simples e prática para gerenciar uma lista de contatos pequena.
+
+Instruções:
+
+1. Clone o repositório do projeto.
+2. Abra o terminal e navegue até o diretório do projeto.
+3. Execute o script Python para começar a gerenciar seus contatos.
+4. Opcionalmente, crie um fork do projeto e faça melhorias ou adaptações conforme desejar.
+Objetivo: O objetivo deste projeto é praticar a manipulação de listas e dicionários em Python, além de criar uma ferramenta simples para gerenciamento de contatos.
