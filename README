@@ -1,0 +1,32 @@
+# Gerenciador de Contatos Simples
+
+Este é um gerenciador de contatos simples desenvolvido em Python. O programa permite adicionar, exibir e remover contatos de uma lista.
+
+## Funcionalidades
+
+- **Adicionar Contato**: Adiciona um novo contato com nome, telefone e e-mail.
+- **Exibir Contatos**: Exibe todos os contatos armazenados na lista.
+- **Remover Contato**: Remove um contato específico da lista pelo nome.
+
+## Como usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/gerenciador-de-contatos.git
+2. Navegue até o diretório do projeto:
+cd gerenciador-de-contatos
+3. Execute o script Python:
+python gerenciador_de_contatos.py
+4. Use as funções adicionar_contato(), exibir_contatos(), e remover_contato() para gerenciar seus contatos.
+
+Para adicionar um contato: adicionar_contato("Nome", "Telefone", "Email")
+Para exibir todos os contatos: exibir_contatos()
+Para remover um contato pelo nome: remover_contato("Nome")
+Requisitos
+Python 3.x
+Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar problemas, abra uma issue ou envie um pull request.
+
+Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
