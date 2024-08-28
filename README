@@ -13,7 +13,7 @@ Este é um gerenciador de contatos simples desenvolvido em Python. O programa pe
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/gerenciador-de-contatos.git
+   git clone https://github.com/Cristina1607/gerenciador-de-contatos.git
 2. Navegue até o diretório do projeto:
 cd gerenciador-de-contatos
 3. Execute o script Python:
